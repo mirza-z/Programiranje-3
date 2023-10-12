@@ -1,0 +1,11 @@
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\MiniSolarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\MiniSolarSystem.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\MiniSolarSystem.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\MiniSolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\bin\Debug\net6.0\MiniSolarSystem.deps.json
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\bin\Debug\net6.0\MiniSolarSystem.dll
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\bin\Debug\net6.0\MiniSolarSystem.pdb
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\MiniSolarSystem.dll
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\refint\MiniSolarSystem.dll
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\MiniSolarSystem.pdb
+C:\Users\Mirza\Desktop\Programiranje II\ProgramiranjeVjezbe\MiniSolarSystem\obj\Debug\net6.0\ref\MiniSolarSystem.dll
